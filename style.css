@@ -1,0 +1,21 @@
+body{
+    background-color: wheat;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+img {
+    max-width: 100%;
+}
+button{
+    size: 100cm;
+}
+#osszcal{
+    font-weight: bold;
+    font-size: 1.5em;
+}
+h2{
+    color: aqua;
+}
